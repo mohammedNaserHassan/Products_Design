@@ -1,9 +1,7 @@
+import 'package:assignment_two/Dummy_data/FavouriteData.dart';
 import 'package:flutter/material.dart';
 
-import 'FavouriteData.dart';
-import 'Product.dart';
-import 'data.dart';
-import 'main.dart';
+import 'Home.dart';
 class Favourite extends StatefulWidget {
   const Favourite();
 

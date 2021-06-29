@@ -1,6 +1,6 @@
 
 
-import 'Product.dart';
+import '../Model/Product.dart';
 
 class MockData{
   MockData._();

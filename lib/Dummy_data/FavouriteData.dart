@@ -1,6 +1,7 @@
 
 
-import 'Product.dart';
+
+import 'package:assignment_two/Model/Product.dart';
 
 class Favourite_data{
   Favourite_data._();
